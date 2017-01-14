@@ -16,7 +16,8 @@ within a short time and limited resources.
 
 All components are housed in pringles can (American potato chips) with the LCD
 mounted on the lid. A servo motor with wights attached acts as a pendulum to
-sway the can sideways when the alarm triggers. Fun isn't it!
+sway the can sideways when the alarm triggers. Also the backlight swithces on
+if ambient lights are low enough. Fun isn't it!
 
 
 The bitmaps were converted to character maps for displaying custom images
@@ -30,6 +31,7 @@ Thanks and cheers!! If you like his website please donate!
 Features
 
 - NOKIA 3310 monochrome LCD
+- Ambient light sensing with LDR switches backlight on in dark conditions
 - Programmable alarm with melody
 - Humidity and Temperature readouts
 - Requires 6v - 12v dc supply
